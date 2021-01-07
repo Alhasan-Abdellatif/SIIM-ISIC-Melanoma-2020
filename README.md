@@ -7,11 +7,11 @@ Using an ensemble of models produced by this code as well as other TensorFlow mo
 The implementation uses a 5-fold cross-validation method. 
 
 ## Running
-To train a model, specify configurations in config_file.py and :
+To train a model, specify configurations in config_file.py and run :
 
 ```
 python train.py  --save_folder config55   --dev_num 0
 ```
 where save_folder will be the name of the created folders to save best checkpoints and predictions.
 
-(Many updates should be introduced later).
+(Some updates might be introduced later).
