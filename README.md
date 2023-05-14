@@ -1,6 +1,6 @@
 # SIIM-ISIC-Melanoma-2020
 
-This repository provides a PyTorch implemenation of the classifcation problem in the Kaggle SIIM-ISIC Melanoma 2020 Competition (It can be modified for other problems though).
+This repository provides a PyTorch implemenation of the classifcation problem in the Kaggle SIIM-ISIC Melanoma 2020 Competition, https://www.kaggle.com/competitions/siim-isic-melanoma-classification/overview, (It can be modified for other problems though).
 
 Using an ensemble of models produced by this code as well as other TensorFlow models, our team managed to be in top 10% and win a bronze medal in the competition.
 
